@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Settings">
+    <setting label="Connmanctl connection name " type="text"   id="connection_name" default="vpn_x_x_x_x"/>
+    </category>
+</settings>

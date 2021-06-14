@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.vpn-connect"
+        version="1.0"
+        name="VPN Connect"
+        provider-name="aerospeace">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="main.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Connect and disconnect from VPN</summary>
+    </extension>
+</addon>
+
